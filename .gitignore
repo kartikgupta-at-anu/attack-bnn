@@ -1,0 +1,5 @@
+venv/
+out/
+attack_out/
+out.zip
+nohup.out

@@ -1,0 +1,10 @@
+tensorboardX==1.2
+torch
+torchvision
+bokeh
+pyyaml
+pandas
+typing
+seaborn
+matplotlib
+pillow==6.2.1
